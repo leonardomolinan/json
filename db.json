@@ -9,7 +9,7 @@
 		},
 		{
 			"id" : 2,
-			"titulo":"Por quanto tempo você deseja manter os seus investimentos?",
+			"title":"Por quanto tempo você deseja manter os seus investimentos?",
 			"alternatives":[{"text":"Até um ano","id":"21"},
 					{"text":"De 1 a 3 anos","id":"22"},
 					{"text":"Mais de 3 anos","id":"23"}]
